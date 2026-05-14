@@ -1,3 +1,4 @@
+// DOI: https://doi.org/10.5281/zenodo.20174053
 // neuro_epidemic.js — Neuro-Epidemic Engine (NEE)
 // Isomorphism: neural nets and SIR epidemic models are both graph dynamical
 // systems: x_{t+1} = sigma(W * x_t). Backprop learns contact matrix W and
